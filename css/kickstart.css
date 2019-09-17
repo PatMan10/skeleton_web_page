@@ -1,8 +1,89 @@
 /*
- *heights %
+ * heights
  * */
+
+/*
+ * viewport
+ */
+
+.h-10vh {
+  height: 10vh;
+}
+
+.h-20vh {
+  height: 20vh;
+}
+
+.h-30vh {
+  height: 30vh;
+}
+
+.h-40vh {
+  height: 40vh;
+}
+
+.h-50vh {
+  height: 50vh;
+}
+
+.h-60vh {
+  height: 60vh;
+}
+
+.h-70vh {
+  height: 70vh;
+}
+
+.h-80vh {
+  height: 80vh;
+}
+
+.h-90vh {
+  height: 90vh;
+}
+
 .h-100vh {
   height: 100vh;
+}
+
+/*
+ * percentage
+ */
+
+.h-10p {
+  height: 10%;
+}
+
+.h-20p {
+  height: 20%;
+}
+
+.h-30p {
+  height: 30%;
+}
+
+.h-40p {
+  height: 40%;
+}
+
+.h-50p {
+  height: 50%;
+}
+
+.h-60p {
+  height: 60%;
+}
+
+.h-70p {
+  height: 70%;
+}
+
+.h-80p {
+  height: 80%;
+}
+
+.h-90p {
+  height: 90%;
 }
 
 .h-100p {
@@ -10,8 +91,61 @@
 }
 
 /*
- *widths %
+ * widths
  * */
+
+/*
+ * viewport
+ * */
+
+.w-10vw {
+  width: 10vw;
+}
+
+.w-20vw {
+  width: 20vw;
+}
+
+.w-30vw {
+  width: 30vw;
+}
+
+.w-40vw {
+  width: 40vw;
+}
+
+.w-50vw {
+  width: 50vw;
+}
+
+.w-60vw {
+  width: 60vw;
+}
+
+.w-70vw {
+  width: 70vw;
+}
+
+.w-80vw {
+  width: 80vw;
+}
+
+.w-90vw {
+  width: 90vw;
+}
+
+.w-100vw {
+  width: 100vw;
+}
+
+/*
+ * percentage
+ * */
+
+.w-10p {
+  width: 10%;
+}
+
 .w-20p {
   width: 20%;
 }
@@ -20,8 +154,32 @@
   width: 30%;
 }
 
+.w-40p {
+  width: 40%;
+}
+
 .w-50p {
   width: 50%;
+}
+
+.w-60p {
+  width: 60%;
+}
+
+.w-70p {
+  width: 70%;
+}
+
+.w-80p {
+  width: 80%;
+}
+
+.w-90p {
+  width: 90%;
+}
+
+.w-100p {
+  width: 100%;
 }
 
 /*
